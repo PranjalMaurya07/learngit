@@ -7,6 +7,6 @@ int main(){
     cout<<"This is a basic program"<<endl;
     cout<<"Enter two numbers"<<endl;
     cin>>a>>b;
-    diff=a+b;
+    diff=a-b;
     cout<<"Sum of two numbers = "<< diff<<endl;
 }
